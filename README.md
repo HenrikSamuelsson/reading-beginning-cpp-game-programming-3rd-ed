@@ -4,9 +4,9 @@ Personal notes from when reading the book Beginning C++ Game Programming 3rd Ed,
 
 ## Resources
 
-[Official book GitHub repository](https://github.com/PacktPublishing/Beginning-C-Game-Programming-Third-Edition/issues)  
+[The books official GitHub repository](https://github.com/PacktPublishing/Beginning-C-Game-Programming-Third-Edition/issues)  
 
-## Abbreviations List
+## Abbreviation List
 
 **IDE** Integrated Development Environment  
 **OOP** Object Oriented Programming  
