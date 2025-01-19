@@ -2,12 +2,46 @@
 
 Personal notes from when reading the book Beginning C++ Game Programming 3rd Ed, John Horton, Packt (2024).
 
+## Resources
+
+[Official book GitHub repository](https://github.com/PacktPublishing/Beginning-C-Game-Programming-Third-Edition/issues)  
+
 ## Abbreviations List
 
+**IDE** Integrated Development Environment  
+**OOP** Object Oriented Programming  
 **SFML** Simple Fast Media Library  
+
+## Motivation for C++ in Game Development
+
+Factors that makes C++ a good choices for game development:
+
+- **Speed** C++ will produce efficient programs, important for being able to build bigger games that tend to consume a lot of hardware resources.
+
+- **Existing engines and libraries** Having existing code as a base for a game with will greatly reduce the development time.
+
+- **Low Level Control** Not all languages provides low-level access to the hardware like C++ does, opening up for optimizations if needed to make complex games playable.
+
+- **Documentation and Support** C++ being one of the larger commonly used languages makes it easier to find solutions to problems occurring while developing.
 
 ## Terms
 
-### Simple Fast Media Library
+**code base** - All the code making up a given project.
 
-The games built in the book are all using a C++ library for games development called Simple Fast Media Library (SFML).
+**Microsoft Visual Studio** - Integrated development environment used for development of the game projects from the book. Provided by the company Microsoft. Comes in a free to use version with some limitations, and various premium versions that costs.
+
+**Object Oriented Programming (OOP)** - Programming paradigm based on objects containing both data and functionality with intention to limit the cognitive load on the programmers being able to structure the code in smaller parts hiding away complexity.
+
+**Simpla Fast Media Library (SFML)** - A C++ library for game development used to develop the various game projects from the book.
+
+**Standard Template Library (STL)** - Collection of classes allowing for quickly implementing common data management techniques.
+
+**Pong** - One of the first video games ever made, also the second game to be developed while reading the book.
+
+**Timber!!!** - First game developed while reading the book. 
+
+**Timberman** - Older existing game which we build a clone of while reading the book, called Timber!!!.
+
+**Run** A platform game which will the fourth and final game to be developed while reading the book.
+
+**Zombie Arena** A zombie survival shooter game which will be the third game developed while reading the book.
