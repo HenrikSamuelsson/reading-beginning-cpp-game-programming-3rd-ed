@@ -1,3 +1,3 @@
 # Reading Beginning C++ Game Programming
 
-Notes on the book Beginning C++ Game Programming 3rd Ed, John Horton, Packt (2024).
+Personal notes from when reading the book Beginning C++ Game Programming 3rd Ed, John Horton, Packt (2024).
